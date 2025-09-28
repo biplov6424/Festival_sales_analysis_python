@@ -1,2 +1,4 @@
-# Festival_sales_analysis_python
-"This project explores Diwali sales data using Python for data cleaning, preprocessing, and exploratory analysis. It applies pandas, NumPy, matplotlib, and seaborn to uncover insights into customer demographics, spending behavior, and product preferences, helping businesses optimize strategies, enhance customer targeting, and boost sales .
+# Python_Diwali_Sales_Analysis
+Python project for beginners- Analyze Diwali sales data to improve customer experience and sales
+
+## Watch complete tutorial video: https://www.youtube.com/watch?v=KgCgpCIOkIs
